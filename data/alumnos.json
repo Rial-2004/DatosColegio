@@ -33,5 +33,25 @@
         "nombre": "Gudza",
         "localidad": "Logro\u00f1o",
         "nota": 5
+    },
+    {
+        "nombre": "Sebastian",
+        "localidad": "Logro\u00f1o",
+        "nota": 10
+    },
+    {
+        "nombre": "Marcos",
+        "localidad": "Pamplona",
+        "nota": 7
+    },
+    {
+        "nombre": "Juan",
+        "localidad": "Pamplona",
+        "nota": 4
+    },
+    {
+        "nombre": "Pablo",
+        "localidad": "Pamplona",
+        "nota": 7
     }
 ]
