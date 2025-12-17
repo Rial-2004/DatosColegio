@@ -28,5 +28,10 @@
         "nombre": "Rialmar",
         "localidad": "Logro\u00f1o",
         "nota": 10
+    },
+    {
+        "nombre": "Gudza",
+        "localidad": "Logro\u00f1o",
+        "nota": 5
     }
 ]
