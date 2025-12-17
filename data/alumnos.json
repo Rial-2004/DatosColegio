@@ -23,5 +23,10 @@
         "nombre": "Diego",
         "nota": 10,
         "localidad": "Bilbao"
+    },
+    {
+        "nombre": "Rialmar",
+        "localidad": "Logro\u00f1o",
+        "nota": 10
     }
 ]
