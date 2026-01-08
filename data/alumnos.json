@@ -58,5 +58,10 @@
         "nombre": "Rialmar Guapo",
         "localidad": "Logro\u00f1o",
         "nota": 10
+    },
+    {
+        "nombre": "Yo",
+        "localidad": "Valencia",
+        "nota": 6
     }
 ]
