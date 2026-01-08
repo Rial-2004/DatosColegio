@@ -1,10 +1,5 @@
 [
     {
-        "nombre": "Ana",
-        "nota": 7,
-        "localidad": "Madrid"
-    },
-    {
         "nombre": "Luis",
         "nota": 7,
         "localidad": "Barcelona"
@@ -63,5 +58,10 @@
         "nombre": "Yo",
         "localidad": "Valencia",
         "nota": 6
+    },
+    {
+        "nombre": "cesarasa",
+        "localidad": "logro\u00f1o",
+        "nota": 8
     }
 ]
