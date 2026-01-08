@@ -53,5 +53,10 @@
         "nombre": "Pablo",
         "localidad": "Pamplona",
         "nota": 7
+    },
+    {
+        "nombre": "Rialmar Guapo",
+        "localidad": "Logro\u00f1o",
+        "nota": 10
     }
 ]
